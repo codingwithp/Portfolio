@@ -82,7 +82,7 @@ export const Banner = () => {
             <p>
               I'm a full-stack web developer who turns ideas into slick, scalable apps — and when I'm not building the web, I'm training machines to think smarter. From crafting beautiful UIs to deploying backend logic and playing with ML models — I do it all.
             </p>
-            <button onClick={() => console.log('connect')}>Let’s Collab <ArrowRightCircle size={25} /></button>
+            
           </div>}
       </TrackVisibility>
     </Col>
